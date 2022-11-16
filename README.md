@@ -107,8 +107,6 @@
    - 10.1 内核封装WSK网络通信接口
    - 10.2 内核封装TDI网络通信接口
 
-
-### 许可协议
-
+<br>
 
 项目地址：https://github.com/lyshark/WindowsKernelBook
