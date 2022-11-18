@@ -121,4 +121,4 @@ LyShark 信息安全团队创始人，一名专注二进制安全领域研究的
 
 [中华人民共和国著作权法](http://www.gov.cn/guoqing/2021-10/29/content_5647633.htm)
 
-[《Windows 内核安全编程技术实践》 项目地址](https://github.com/lyshark/WindowsKernelBook)
+[项目地址](https://github.com/lyshark/WindowsKernelBook)
