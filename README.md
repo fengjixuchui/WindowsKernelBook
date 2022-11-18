@@ -113,6 +113,11 @@
 感谢自己对自己的不放弃，努力走自己的路，虽然无法得到别人的认可，但自已还是要认可自己！
 
 
+## 许可协议
+
+[CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[中华人民共和国著作权法](http://www.gov.cn/guoqing/2021-10/29/content_5647633.htm)
 
 
 **项目地址：** https://github.com/lyshark/WindowsKernelBook
