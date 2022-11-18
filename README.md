@@ -119,5 +119,4 @@
 
 [中华人民共和国著作权法](http://www.gov.cn/guoqing/2021-10/29/content_5647633.htm)
 
-
-**项目地址：** https://github.com/lyshark/WindowsKernelBook
+[《Windows 内核安全编程技术实践》 项目地址](https://github.com/lyshark/WindowsKernelBook)
