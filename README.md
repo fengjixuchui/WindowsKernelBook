@@ -6,7 +6,6 @@
 
 <br><br>
 
-**本书作者：** 王瑞 (LyShark)<br>
 **作者邮箱：** me@lyshark.com<br>
 **作者博客：** https://lyshark.cnblogs.com<br>
 
