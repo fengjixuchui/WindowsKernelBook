@@ -158,7 +158,6 @@ Windows 内核安全编程技术实践（纯64位），由作者多年技术积�
 《Windows 内核安全编程技术实践课件》
 
 链接: https://pan.baidu.com/s/1HajNPhpcpJHyQ6KIc5GxUA?pwd=like
-提取码: like
  
 ## 许可协议
 
