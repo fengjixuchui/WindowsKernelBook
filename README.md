@@ -153,7 +153,12 @@ Windows 内核安全编程技术实践（纯64位），由作者多年技术积�
    - 12.4 文件微过滤驱动入门
    - 12.5 内核注册表增删改查
   
-  - 附录
+## 附录
+
+《Windows 内核安全编程技术实践课件》
+
+链接: https://pan.baidu.com/s/1HajNPhpcpJHyQ6KIc5GxUA?pwd=like
+提取码: like
  
 ## 许可协议
 
