@@ -17,7 +17,7 @@
 
 ## 封面设计
 
-![logo](https://user-images.githubusercontent.com/52789403/223887651-2f060c9e-0bda-4ecc-86cf-8a5aae501f55.jpg)
+![image](https://user-images.githubusercontent.com/52789403/223887839-c01fac56-d679-47b5-a455-89f8d96284b0.png)
 
 <br>
 
