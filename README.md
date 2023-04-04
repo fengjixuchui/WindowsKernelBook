@@ -14,6 +14,13 @@
 **所属分类：** 信息安全/软件安全/内核安全编程<br>
 **兼容系统：** Windows 10 Build 18362.19h1<br>
 
+## 版本信息
+
+| 版本名 | 发布日期 | SHA1 |
+|《Windows 内核安全编程技术实践（第1版）》| 2022年11月24日 | 0a84c136bcfbe6a91e5cde91c84dc29c79d4f580 |
+|《Windows 内核安全编程技术实践（第2版）》| 2023年3月6日 | 8260c7f07db6aded3b9d1f708b2e6634c23f7bfd |
+|《Windows 内核安全编程技术实践（典藏版）》| 2023年3月6日 | 4b6b6c92152128e3b031030ef8e97448f72b1995 |
+
 ## 封面设计
 
 ![image](https://user-images.githubusercontent.com/52789403/223887839-c01fac56-d679-47b5-a455-89f8d96284b0.png)
