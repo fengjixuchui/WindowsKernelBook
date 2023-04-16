@@ -4,6 +4,11 @@
 <img width="150" src="https://user-images.githubusercontent.com/52789403/201465673-01dd7d47-7092-4523-b828-8af16030b979.png" />
 </div>
 
+**作者：** 王瑞<br>
+**页数：** 798页<br>
+**开本：** 16开<br>
+**装帧：** 平装<br>
+
 <br>
 
 ### 知识产权声明
