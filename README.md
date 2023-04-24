@@ -127,3 +127,11 @@ Windows 内核安全编程技术实践，由作者多年技术积累编写而成
 
  - 附录
  - 参考文献
+
+## 附录
+
+链接：https://pan.baidu.com/s/1HajNPhpcpJHyQ6KIc5GxUA?pwd=like
+
+如有需要可通过打赏我的创作获取本书注解版，打赏我可联系邮箱。
+
+me@lyshark.com
