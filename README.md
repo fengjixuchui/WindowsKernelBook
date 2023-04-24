@@ -1,8 +1,6 @@
 # 《Windows 内核安全编程技术实践》
 
-## 封面设计
-
-![logo](https://user-images.githubusercontent.com/52789403/233877760-ca55b957-448a-4d08-903c-be71f189f0cb.PNG)
+![logo](https://user-images.githubusercontent.com/52789403/233897820-434e5298-08b2-4670-a3e8-7189acccc6c3.PNG)
 
 **作者：** 王瑞<br>
 **页数：** 798页<br>
