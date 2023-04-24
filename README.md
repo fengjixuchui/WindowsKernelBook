@@ -16,7 +16,8 @@
 
 ## 封面设计
 
-![image](https://user-images.githubusercontent.com/52789403/223887839-c01fac56-d679-47b5-a455-89f8d96284b0.png)
+
+![logo](https://user-images.githubusercontent.com/52789403/233877760-ca55b957-448a-4d08-903c-be71f189f0cb.PNG)
 
 ## 书籍概述
 
