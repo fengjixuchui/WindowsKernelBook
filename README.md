@@ -1,8 +1,8 @@
 # 《Windows 内核安全编程技术实践》
 
-<div align=center>
-<img width="150" src="https://user-images.githubusercontent.com/52789403/201465673-01dd7d47-7092-4523-b828-8af16030b979.png" />
-</div>
+## 封面设计
+
+![logo](https://user-images.githubusercontent.com/52789403/233877760-ca55b957-448a-4d08-903c-be71f189f0cb.PNG)
 
 **作者：** 王瑞<br>
 **页数：** 798页<br>
@@ -13,10 +13,6 @@
 ## 知识产权声明
 
 该作品已在中国版权保护中心（国家版权局）申请登记，受《中华人民共和国著作权法》的保护，作者以著作权人身份依法享有，发表权、署名权、修改权、保护作品完整权、复制权、发行权、出租权、展览权、表演权、放映权、广播权、信息网络传播权、摄制权、改编权、翻译权、汇编权，及著作权人依法享有的其他合法权益。
-
-## 封面设计
-
-![logo](https://user-images.githubusercontent.com/52789403/233877760-ca55b957-448a-4d08-903c-be71f189f0cb.PNG)
 
 ## 书籍概述
 
