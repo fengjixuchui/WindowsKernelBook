@@ -1,5 +1,7 @@
 # 《Windows 内核安全编程技术实践》
 
+## 图书封面
+
 ![logo](https://user-images.githubusercontent.com/52789403/233897820-434e5298-08b2-4670-a3e8-7189acccc6c3.PNG)
 
 ## 知识产权声明
