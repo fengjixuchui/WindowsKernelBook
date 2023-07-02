@@ -16,6 +16,6 @@
 
 ### 推广次数
 
-截至2023年06月21日，本书已免费发放25007册。
+截至2023年06月21日，本书已免费发放25007册，CSDN专栏阅读数313718次。
 
 ![image](https://github.com/lyshark/WindowsKernelBook/assets/52789403/d69e77b5-5c4d-4cb9-9986-690623486b9b)
