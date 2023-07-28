@@ -134,6 +134,4 @@ Windows 内核安全编程技术实践，由作者多年技术积累编写而成
 
 ## 附录
 
-[图书下载](https://github.com/lyshark/WindowsKernelBook/releases/download/release/WindowsKernelBook.pdf)
-
 [课件下载](https://pan.baidu.com/s/1HajNPhpcpJHyQ6KIc5GxUA?pwd=like)
