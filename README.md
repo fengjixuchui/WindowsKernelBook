@@ -134,4 +134,8 @@ Windows 内核安全编程技术实践，由作者多年技术积累编写而成
 
 ## 附录
 
+[图书下载](https://storage.ccopyright.com.cn/scrr/temp/202307/27/009bf66338624e3db5e1a1b71b193ba8.pdf)
+
+[版权证书](https://www.lyshark.com/image/%E5%9B%BD%E4%BD%9C%E7%99%BB%E5%AD%97-2023-L-00070201.png)
+
 [课件下载](https://pan.baidu.com/s/1HajNPhpcpJHyQ6KIc5GxUA?pwd=like)
